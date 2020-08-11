@@ -1,0 +1,4597 @@
+fileFormatVersion: 2
+guid: 3f2ae30af146ce04cacd40943c91eed0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8256874440116548497
+    second: Sa-X_0
+  - first:
+      213: 1126559325842912703
+    second: Sa-X_1
+  - first:
+      213: -4788490321783060340
+    second: Sa-X_2
+  - first:
+      213: -7437018368496661613
+    second: Sa-X_3
+  - first:
+      213: 50652839376923971
+    second: Sa-X_4
+  - first:
+      213: 9155522633006188149
+    second: Sa-X_5
+  - first:
+      213: 7925888601365196991
+    second: Sa-X_6
+  - first:
+      213: 1587818606023722993
+    second: Sa-X_7
+  - first:
+      213: -6684938094204336956
+    second: Sa-X_8
+  - first:
+      213: 7198081690160820526
+    second: Sa-X_9
+  - first:
+      213: -920276542429048610
+    second: Sa-X_10
+  - first:
+      213: 7332995184561338694
+    second: Sa-X_11
+  - first:
+      213: 2378317827684261221
+    second: Sa-X_12
+  - first:
+      213: -2864851938426291725
+    second: Sa-X_13
+  - first:
+      213: -9178530267535008825
+    second: Sa-X_14
+  - first:
+      213: 3570667610314269913
+    second: Sa-X_15
+  - first:
+      213: 5480280089388908751
+    second: Sa-X_16
+  - first:
+      213: 1927680156314628287
+    second: Sa-X_17
+  - first:
+      213: -2486191612784190032
+    second: Sa-X_18
+  - first:
+      213: 5735161613132076535
+    second: Sa-X_19
+  - first:
+      213: -4978385776616964733
+    second: Sa-X_20
+  - first:
+      213: 7493837536693239332
+    second: Sa-X_21
+  - first:
+      213: 5891929624165159140
+    second: Sa-X_22
+  - first:
+      213: -4010863752827023941
+    second: Sa-X_23
+  - first:
+      213: -1141711846336379696
+    second: Sa-X_24
+  - first:
+      213: -1753446238894791268
+    second: Sa-X_25
+  - first:
+      213: -6740031487994048367
+    second: Sa-X_26
+  - first:
+      213: -864674653888506499
+    second: Sa-X_27
+  - first:
+      213: -1515087065255625373
+    second: Sa-X_28
+  - first:
+      213: -8683891764362208537
+    second: Sa-X_29
+  - first:
+      213: 4180963906509337705
+    second: Sa-X_30
+  - first:
+      213: -6288399281065812648
+    second: Sa-X_31
+  - first:
+      213: -2252168961019607206
+    second: Sa-X_32
+  - first:
+      213: 5689432570884510265
+    second: Sa-X_33
+  - first:
+      213: -1903851627808182141
+    second: Sa-X_34
+  - first:
+      213: 4022683032864942289
+    second: Sa-X_35
+  - first:
+      213: -1022856662117078536
+    second: Sa-X_36
+  - first:
+      213: -1168755067668604789
+    second: Sa-X_37
+  - first:
+      213: -7188016950778901446
+    second: Sa-X_38
+  - first:
+      213: 2274274571645896521
+    second: Sa-X_39
+  - first:
+      213: 5782348828248297156
+    second: Sa-X_40
+  - first:
+      213: -4746777707461937891
+    second: Sa-X_41
+  - first:
+      213: 4424686895427449165
+    second: Sa-X_42
+  - first:
+      213: 6846144319634533387
+    second: Sa-X_43
+  - first:
+      213: 2604879039875319684
+    second: Sa-X_44
+  - first:
+      213: -3062613780754322145
+    second: Sa-X_45
+  - first:
+      213: 8368952954882239779
+    second: Sa-X_46
+  - first:
+      213: 7899288107478118715
+    second: Sa-X_47
+  - first:
+      213: 1332213974970668752
+    second: Sa-X_48
+  - first:
+      213: -900199371434918262
+    second: Sa-X_49
+  - first:
+      213: -8295502366622633572
+    second: Sa-X_50
+  - first:
+      213: 2549135944662696515
+    second: Sa-X_51
+  - first:
+      213: 3166709546674479313
+    second: Sa-X_52
+  - first:
+      213: 1084501165533759873
+    second: Sa-X_53
+  - first:
+      213: -4157600591808859664
+    second: Sa-X_54
+  - first:
+      213: 8661224802709631411
+    second: Sa-X_55
+  - first:
+      213: 8396835549938319180
+    second: Sa-X_56
+  - first:
+      213: 4727364568446974374
+    second: Sa-X_57
+  - first:
+      213: -7385584159694976912
+    second: Sa-X_58
+  - first:
+      213: -5818736177868237824
+    second: Sa-X_59
+  - first:
+      213: 7791507629664368828
+    second: Sa-X_60
+  - first:
+      213: 8972311799517066769
+    second: Sa-X_61
+  - first:
+      213: -1432049950354235456
+    second: Sa-X_62
+  - first:
+      213: 5110519620802942927
+    second: Sa-X_63
+  - first:
+      213: -2625378675782402598
+    second: Sa-X_64
+  - first:
+      213: -8468756433987608127
+    second: Sa-X_65
+  - first:
+      213: 1133134535755854927
+    second: Sa-X_66
+  - first:
+      213: -2370724136486396887
+    second: Sa-X_67
+  - first:
+      213: 1475737560865770199
+    second: Sa-X_68
+  - first:
+      213: -6653889734330393846
+    second: Sa-X_69
+  - first:
+      213: -1757593857064923359
+    second: Sa-X_70
+  - first:
+      213: -7712806783791311434
+    second: Sa-X_71
+  - first:
+      213: -5104293134631147124
+    second: Sa-X_72
+  - first:
+      213: -4226407243539432417
+    second: Sa-X_73
+  - first:
+      213: 4586095094365820083
+    second: Sa-X_74
+  - first:
+      213: -8246812663723133270
+    second: Sa-X_75
+  - first:
+      213: 5869515954037751002
+    second: Sa-X_76
+  - first:
+      213: -244670571451427151
+    second: Sa-X_77
+  - first:
+      213: 254019974114222470
+    second: Sa-X_78
+  - first:
+      213: 8136894728553391447
+    second: Sa-X_79
+  - first:
+      213: 7506040412392875883
+    second: Sa-X_80
+  - first:
+      213: -7615336151761796408
+    second: Sa-X_81
+  - first:
+      213: -126538043633339415
+    second: Sa-X_82
+  - first:
+      213: 8945931820647382921
+    second: Sa-X_83
+  - first:
+      213: -1012270292696234877
+    second: Sa-X_84
+  - first:
+      213: -5671708420574140231
+    second: Sa-X_85
+  - first:
+      213: -3708904646325618894
+    second: Sa-X_86
+  - first:
+      213: 1806153626085894998
+    second: Sa-X_87
+  - first:
+      213: -2755032052109218220
+    second: Sa-X_88
+  - first:
+      213: -1835184179953842587
+    second: Sa-X_89
+  - first:
+      213: 1355332337125148718
+    second: Sa-X_90
+  - first:
+      213: -8491812371452922435
+    second: Sa-X_91
+  - first:
+      213: -166424402415613007
+    second: Sa-X_92
+  - first:
+      213: -4771733909340784001
+    second: Sa-X_93
+  - first:
+      213: 4858383508942614789
+    second: Sa-X_94
+  - first:
+      213: -8576807243625196822
+    second: Sa-X_95
+  - first:
+      213: -2551463390211320478
+    second: Sa-X_96
+  - first:
+      213: 6019122449985209087
+    second: Sa-X_97
+  - first:
+      213: -1591689734245653782
+    second: Sa-X_98
+  - first:
+      213: 1116534245710218341
+    second: Sa-X_99
+  - first:
+      213: -4440083579469288710
+    second: Sa-X_100
+  - first:
+      213: 7378749104726414006
+    second: Sa-X_101
+  - first:
+      213: -4138978797120827177
+    second: Sa-X_102
+  - first:
+      213: -7735116500502089145
+    second: Sa-X_103
+  - first:
+      213: -8072901646087298011
+    second: Sa-X_104
+  - first:
+      213: 2028114980744097705
+    second: Sa-X_105
+  - first:
+      213: -1713492231489928405
+    second: Sa-X_106
+  - first:
+      213: -8453668918624854477
+    second: Sa-X_107
+  - first:
+      213: 7035653384145848819
+    second: Sa-X_108
+  - first:
+      213: 6983278754637053780
+    second: Sa-X_109
+  - first:
+      213: -5879390690925034426
+    second: Sa-X_110
+  - first:
+      213: 1727053821786287275
+    second: Sa-X_111
+  - first:
+      213: -7599917473744523157
+    second: Sa-X_112
+  - first:
+      213: -6208862593950986728
+    second: Sa-X_113
+  - first:
+      213: 1988817935656829339
+    second: Sa-X_114
+  - first:
+      213: 692825457687117802
+    second: Sa-X_115
+  - first:
+      213: 80011670520291622
+    second: Sa-X_116
+  - first:
+      213: 1523163594900834826
+    second: Sa-X_117
+  - first:
+      213: 4550650037026812455
+    second: Sa-X_118
+  - first:
+      213: -6777701981528718621
+    second: Sa-X_119
+  - first:
+      213: 826957376682080688
+    second: Sa-X_120
+  - first:
+      213: 6656252384902195926
+    second: Sa-X_121
+  - first:
+      213: 920320877462642688
+    second: Sa-X_122
+  - first:
+      213: -8388749625946622280
+    second: Sa-X_123
+  - first:
+      213: 5998278800699464198
+    second: Sa-X_124
+  - first:
+      213: -5646190644796070146
+    second: Sa-X_125
+  - first:
+      213: 6935118292548865443
+    second: Sa-X_126
+  - first:
+      213: 7737104633971291291
+    second: Sa-X_127
+  - first:
+      213: 6668250147385596156
+    second: Sa-X_128
+  - first:
+      213: 8226789282582535717
+    second: Sa-X_129
+  - first:
+      213: -7228846226941649058
+    second: Sa-X_130
+  - first:
+      213: 6657943241842167504
+    second: Sa-X_131
+  - first:
+      213: 1157640171990117390
+    second: Sa-X_132
+  - first:
+      213: -4471064820736223585
+    second: Sa-X_133
+  - first:
+      213: 9210162204073716059
+    second: Sa-X_134
+  - first:
+      213: -6362432905621127252
+    second: Sa-X_135
+  - first:
+      213: -6132993466954294893
+    second: Sa-X_136
+  - first:
+      213: -1593946972924224919
+    second: Sa-X_137
+  - first:
+      213: -3568440821288466246
+    second: Sa-X_138
+  - first:
+      213: -3211242635227819041
+    second: Sa-X_139
+  - first:
+      213: 2684138554599877868
+    second: Sa-X_140
+  - first:
+      213: 6557444695811810563
+    second: Sa-X_141
+  - first:
+      213: 3521873103575067992
+    second: Sa-X_142
+  - first:
+      213: 1565887369822194853
+    second: Sa-X_143
+  - first:
+      213: 5827593966099953663
+    second: Sa-X_144
+  - first:
+      213: 3837454104395949496
+    second: Sa-X_145
+  - first:
+      213: -1539161616712049604
+    second: Sa-X_146
+  - first:
+      213: 6514303702978736852
+    second: Sa-X_147
+  - first:
+      213: 2799915260907028256
+    second: Sa-X_148
+  - first:
+      213: 1952787413053981038
+    second: Sa-X_149
+  - first:
+      213: 4990765580852265979
+    second: Sa-X_150
+  - first:
+      213: 5396944714541008742
+    second: Sa-X_151
+  - first:
+      213: 7587541571511336953
+    second: Sa-X_152
+  - first:
+      213: -3623066434540102497
+    second: Sa-X_153
+  - first:
+      213: 8338798314770567628
+    second: Sa-X_154
+  - first:
+      213: -1656947632152148944
+    second: Sa-X_155
+  - first:
+      213: 4879647187502505310
+    second: Sa-X_156
+  - first:
+      213: 7337789910859942536
+    second: Sa-X_157
+  - first:
+      213: -9161679963320368946
+    second: Sa-X_158
+  - first:
+      213: -4874274216890139062
+    second: Sa-X_159
+  - first:
+      213: -3397676580123890774
+    second: Sa-X_160
+  - first:
+      213: 339163015431125988
+    second: Sa-X_0
+  - first:
+      213: -9052310594184606859
+    second: Sa-X_1
+  - first:
+      213: -6819892449344328320
+    second: Sa-X_2
+  - first:
+      213: -8506907780137001434
+    second: Sa-X_3
+  - first:
+      213: -478630640696556976
+    second: Sa-X_4
+  - first:
+      213: 7715805128019393591
+    second: Sa-X_5
+  - first:
+      213: 236224036899994910
+    second: Sa-X_6
+  - first:
+      213: 8528514661848325493
+    second: Sa-X_7
+  - first:
+      213: 4809089551543069039
+    second: Sa-X_8
+  - first:
+      213: -4884182188344408835
+    second: Sa-X_9
+  - first:
+      213: 8796919240043940116
+    second: Sa-X_10
+  - first:
+      213: -3008696113853091632
+    second: Sa-X_11
+  - first:
+      213: 493233325950669773
+    second: Sa-X_12
+  - first:
+      213: 5048743294997199381
+    second: Sa-X_13
+  - first:
+      213: -8927735341082306558
+    second: Sa-X_14
+  - first:
+      213: 5075982289137602061
+    second: Sa-X_15
+  - first:
+      213: 3784534773970802802
+    second: Sa-X_16
+  - first:
+      213: 7692395334069543926
+    second: Sa-X_17
+  - first:
+      213: -383398249722204860
+    second: Sa-X_18
+  - first:
+      213: 7075355105922194050
+    second: Sa-X_19
+  - first:
+      213: -1128007634238271227
+    second: Sa-X_20
+  - first:
+      213: -403365969125838387
+    second: Sa-X_21
+  - first:
+      213: -3403827380555332440
+    second: Sa-X_22
+  - first:
+      213: -460089236242115113
+    second: Sa-X_23
+  - first:
+      213: -1767235413374434617
+    second: Sa-X_24
+  - first:
+      213: -4686233502098261478
+    second: Sa-X_25
+  - first:
+      213: 7378180804606975885
+    second: Sa-X_26
+  - first:
+      213: -7873321316933469642
+    second: Sa-X_27
+  - first:
+      213: -2376321456757106937
+    second: Sa-X_28
+  - first:
+      213: -3816439003230538827
+    second: Sa-X_29
+  - first:
+      213: -9130847107558331753
+    second: Sa-X_30
+  - first:
+      213: -808665388189175811
+    second: Sa-X_31
+  - first:
+      213: -3514681633273287469
+    second: Sa-X_32
+  - first:
+      213: -5053071838318459290
+    second: Sa-X_33
+  - first:
+      213: 7829554250938913708
+    second: Sa-X_34
+  - first:
+      213: 5706553834080405724
+    second: Sa-X_35
+  - first:
+      213: 2681242529748499825
+    second: Sa-X_36
+  - first:
+      213: 1330160642675203114
+    second: Sa-X_37
+  - first:
+      213: -1431136706483015693
+    second: Sa-X_38
+  - first:
+      213: -7510827993334310121
+    second: Sa-X_39
+  - first:
+      213: -5297221166075151941
+    second: Sa-X_40
+  - first:
+      213: -6988671634655733795
+    second: Sa-X_41
+  - first:
+      213: 8551743250198156680
+    second: Sa-X_42
+  - first:
+      213: -682511224036744265
+    second: Sa-X_43
+  - first:
+      213: -4763288838653692836
+    second: Sa-X_44
+  - first:
+      213: 2237137660277939010
+    second: Sa-X_45
+  - first:
+      213: -646960100531781830
+    second: Sa-X_46
+  - first:
+      213: 8344042205031176975
+    second: Sa-X_47
+  - first:
+      213: 5929005526032622073
+    second: Sa-X_48
+  - first:
+      213: 8883697635595633738
+    second: Sa-X_49
+  - first:
+      213: 6178303152130123818
+    second: Sa-X_50
+  - first:
+      213: 6884516087663011490
+    second: Sa-X_51
+  - first:
+      213: -6455362246734754361
+    second: Sa-X_52
+  - first:
+      213: -6332164001256681198
+    second: Sa-X_53
+  - first:
+      213: -8738185351185168770
+    second: Sa-X_54
+  - first:
+      213: -547699702576651064
+    second: Sa-X_55
+  - first:
+      213: -3921640950143135624
+    second: Sa-X_56
+  - first:
+      213: -3589983679637529418
+    second: Sa-X_57
+  - first:
+      213: -3146801233308377373
+    second: Sa-X_58
+  - first:
+      213: -3006963502797661593
+    second: Sa-X_59
+  - first:
+      213: -7250432177988783471
+    second: Sa-X_60
+  - first:
+      213: 3612697648608879775
+    second: Sa-X_61
+  - first:
+      213: 3773587259304848518
+    second: Sa-X_62
+  - first:
+      213: 1126189527225417678
+    second: Sa-X_63
+  - first:
+      213: 2059159781185993493
+    second: Sa-X_64
+  - first:
+      213: 2174024043171723854
+    second: Sa-X_65
+  - first:
+      213: 3184798228300270162
+    second: Sa-X_66
+  - first:
+      213: 7790777675030810699
+    second: Sa-X_67
+  - first:
+      213: -4073525235471016847
+    second: Sa-X_68
+  - first:
+      213: -490414431323241012
+    second: Sa-X_69
+  - first:
+      213: 3501718492415746426
+    second: Sa-X_70
+  - first:
+      213: 98865439286622340
+    second: Sa-X_71
+  - first:
+      213: -1735752184242587249
+    second: Sa-X_72
+  - first:
+      213: 6677250686556087150
+    second: Sa-X_73
+  - first:
+      213: -6270108218893220495
+    second: Sa-X_74
+  - first:
+      213: -6340627304291665988
+    second: Sa-X_75
+  - first:
+      213: 4941147899372824965
+    second: Sa-X_76
+  - first:
+      213: -2579761150233907125
+    second: Sa-X_77
+  - first:
+      213: -5628714211123906293
+    second: Sa-X_78
+  - first:
+      213: 1936304863976062962
+    second: Sa-X_79
+  - first:
+      213: 825472891436909164
+    second: Sa-X_80
+  - first:
+      213: 4642126054368780800
+    second: Sa-X_81
+  - first:
+      213: 5290930487678722964
+    second: Sa-X_82
+  - first:
+      213: 4408566370638942729
+    second: Sa-X_83
+  - first:
+      213: -6252972441434192502
+    second: Sa-X_84
+  - first:
+      213: -5033046557314249596
+    second: Sa-X_85
+  - first:
+      213: 8442676660639912054
+    second: Sa-X_86
+  - first:
+      213: 2802110733094380556
+    second: Sa-X_87
+  - first:
+      213: -5099106544838190540
+    second: Sa-X_88
+  - first:
+      213: 3782797544515145271
+    second: Sa-X_89
+  - first:
+      213: 2094563243978046862
+    second: Sa-X_90
+  - first:
+      213: -7752626036107206902
+    second: Sa-X_91
+  - first:
+      213: -796841823951563673
+    second: Sa-X_92
+  - first:
+      213: -678591281192347970
+    second: Sa-X_93
+  - first:
+      213: -2601136741122134550
+    second: Sa-X_94
+  - first:
+      213: 5470631868428628859
+    second: Sa-X_95
+  - first:
+      213: -4267680392657510050
+    second: Sa-X_96
+  - first:
+      213: 2499918875523899011
+    second: Sa-X_97
+  - first:
+      213: 8457496764656251783
+    second: Sa-X_98
+  - first:
+      213: 796165474690539770
+    second: Sa-X_99
+  - first:
+      213: 8176594172750309165
+    second: Sa-X_100
+  - first:
+      213: -8228091624858382643
+    second: Sa-X_101
+  - first:
+      213: 2477482991355719828
+    second: Sa-X_102
+  - first:
+      213: -887350626316194431
+    second: Sa-X_103
+  - first:
+      213: 2112828454035046792
+    second: Sa-X_104
+  - first:
+      213: 5906788317804120660
+    second: Sa-X_105
+  - first:
+      213: 9133820021499937454
+    second: Sa-X_106
+  - first:
+      213: 3355750317639804549
+    second: Sa-X_107
+  - first:
+      213: -2197115095598840737
+    second: Sa-X_108
+  - first:
+      213: -1237276089658418906
+    second: Sa-X_109
+  - first:
+      213: -4640208634540540019
+    second: Sa-X_110
+  - first:
+      213: 5877714616753545823
+    second: Sa-X_111
+  - first:
+      213: -8394955949324723230
+    second: Sa-X_112
+  - first:
+      213: -8163503259546802664
+    second: Sa-X_113
+  - first:
+      213: -6404224469836095211
+    second: Sa-X_114
+  - first:
+      213: 840192602880343979
+    second: Sa-X_115
+  - first:
+      213: -6026729770775047098
+    second: Sa-X_116
+  - first:
+      213: -5940418068249200427
+    second: Sa-X_117
+  - first:
+      213: -5241318112051796395
+    second: Sa-X_118
+  - first:
+      213: -648936052083659042
+    second: Sa-X_119
+  - first:
+      213: -9153759099120819979
+    second: Sa-X_120
+  - first:
+      213: 7054315589278933399
+    second: Sa-X_121
+  - first:
+      213: 5808985645974543844
+    second: Sa-X_122
+  - first:
+      213: -2329368679840114171
+    second: Sa-X_123
+  - first:
+      213: 4079725205432714574
+    second: Sa-X_124
+  - first:
+      213: 6662725599194020889
+    second: Sa-X_125
+  - first:
+      213: -5454873149210576391
+    second: Sa-X_126
+  - first:
+      213: 4951960693221966021
+    second: Sa-X_127
+  - first:
+      213: -6481838307108788446
+    second: Sa-X_128
+  - first:
+      213: -8531443791258554246
+    second: Sa-X_129
+  - first:
+      213: -8594755259436139230
+    second: Sa-X_130
+  - first:
+      213: 318831351747901987
+    second: Sa-X_131
+  - first:
+      213: 2764887793607776391
+    second: Sa-X_132
+  - first:
+      213: 9171900095760620325
+    second: Sa-X_133
+  - first:
+      213: -7511074608108711421
+    second: Sa-X_134
+  - first:
+      213: -6840317068859406540
+    second: Sa-X_135
+  - first:
+      213: 4795208969296030781
+    second: Sa-X_136
+  - first:
+      213: -3612709476253314267
+    second: Sa-X_137
+  - first:
+      213: -4290110404296514446
+    second: Sa-X_138
+  - first:
+      213: 5711865130192994924
+    second: Sa-X_139
+  - first:
+      213: -2996278392255259627
+    second: Sa-X_140
+  - first:
+      213: -6745271935539178051
+    second: Sa-X_141
+  - first:
+      213: -8703192622493294727
+    second: Sa-X_142
+  - first:
+      213: -8658880933842423990
+    second: Sa-X_143
+  - first:
+      213: -2241744195900187126
+    second: Sa-X_144
+  - first:
+      213: 3315921879214239123
+    second: Sa-X_145
+  - first:
+      213: -7054394306454986345
+    second: Sa-X_146
+  - first:
+      213: 4655278988056353342
+    second: Sa-X_147
+  - first:
+      213: 5629686753105241204
+    second: Sa-X_148
+  - first:
+      213: 8786653316975471227
+    second: Sa-X_149
+  - first:
+      213: 4355028033769816883
+    second: Sa-X_150
+  - first:
+      213: -7965841436922399472
+    second: Sa-X_151
+  - first:
+      213: -8021312826966204846
+    second: Sa-X_152
+  - first:
+      213: -550090073425700308
+    second: Sa-X_153
+  - first:
+      213: -180034568161139491
+    second: Sa-X_154
+  - first:
+      213: 343983589086886609
+    second: Sa-X_155
+  - first:
+      213: -5957031898778844433
+    second: Sa-X_156
+  - first:
+      213: -4792688701846587480
+    second: Sa-X_157
+  - first:
+      213: -5785579645616826451
+    second: Sa-X_158
+  - first:
+      213: 6797532846215542419
+    second: Sa-X_159
+  - first:
+      213: 459630907012474216
+    second: Sa-X Idle_01
+  - first:
+      213: -6659191440662923099
+    second: Sa-X Idle_02
+  - first:
+      213: 4594220548668159443
+    second: Sa-X 1_2
+  - first:
+      213: 5896660769529463031
+    second: Sa-X 1_3
+  - first:
+      213: -578967634659416161
+    second: Sa-X 1_4
+  - first:
+      213: -6975258976268937829
+    second: Sa-X 1_5
+  - first:
+      213: -3641400657433499339
+    second: Sa-X 1_6
+  - first:
+      213: 1658710372816454902
+    second: Sa-X 1_7
+  - first:
+      213: -7427228731459337299
+    second: Sa-X 1_8
+  - first:
+      213: -8644537854334558266
+    second: Sa-X 1_9
+  - first:
+      213: 1858972160961867035
+    second: Sa-X 1_10
+  - first:
+      213: 6502218873796884741
+    second: Sa-X 1_11
+  - first:
+      213: 7389028952418732641
+    second: Sa-X 1_12
+  - first:
+      213: 3829337223734721564
+    second: Sa-X 1_13
+  - first:
+      213: -5169263574345071842
+    second: Sa-X 1_14
+  - first:
+      213: 7318689164689107475
+    second: Sa-X 1_15
+  - first:
+      213: -5739130862793227816
+    second: Sa-X 1_16
+  - first:
+      213: 6289428184830657792
+    second: Sa-X 1_17
+  - first:
+      213: -5960409068804510631
+    second: Sa-X 1_18
+  - first:
+      213: 7814721246791579639
+    second: Sa-X 1_19
+  - first:
+      213: 640875104335107087
+    second: Sa-X 1_20
+  - first:
+      213: -3994621094608525328
+    second: Sa-X 1_21
+  - first:
+      213: 2896109673195809459
+    second: Sa-X 1_22
+  - first:
+      213: 887624539337554661
+    second: Sa-X 1_23
+  - first:
+      213: -2816883326836977162
+    second: Sa-X 1_24
+  - first:
+      213: 6925055022104928082
+    second: Sa-X 1_25
+  - first:
+      213: -5347837963439570224
+    second: Sa-X 1_26
+  - first:
+      213: 2995795624386480248
+    second: Sa-X 1_27
+  - first:
+      213: 9118427977061352643
+    second: Sa-X 1_28
+  - first:
+      213: 758613894869755452
+    second: Sa-X 1_29
+  - first:
+      213: 8641962763621978737
+    second: Sa-X 1_30
+  - first:
+      213: 4132568492664650073
+    second: Sa-X 1_31
+  - first:
+      213: 1655000308277385477
+    second: Sa-X 1_32
+  - first:
+      213: 34394681032231950
+    second: Sa-X 1_33
+  - first:
+      213: 7853358228493970210
+    second: Sa-X Walk_01
+  - first:
+      213: 8185688588503047662
+    second: Sa-X Walk_02
+  - first:
+      213: -1918123536583225076
+    second: Sa-X Walk_03
+  - first:
+      213: 2020803038896142327
+    second: Sa-X Walk_04
+  - first:
+      213: -4585854667187666569
+    second: Sa-X Walk_05
+  - first:
+      213: -435825810922744021
+    second: Sa-X Walk_06
+  - first:
+      213: 7636828450293112667
+    second: Sa-X Walk_07
+  - first:
+      213: 7690494530757210133
+    second: Sa-X Walk_08
+  - first:
+      213: -3496072513884498038
+    second: Sa-X Walk_09
+  - first:
+      213: -1021928627996127865
+    second: Sa-X Walk_10
+  - first:
+      213: -3341638003701993157
+    second: Sa-X 1_44
+  - first:
+      213: -2281938338790749423
+    second: Sa-X 1_45
+  - first:
+      213: 2814064333578274856
+    second: Sa-X 1_46
+  - first:
+      213: -4874521524412187597
+    second: Sa-X 1_47
+  - first:
+      213: -163234201525331628
+    second: Sa-X 1_48
+  - first:
+      213: 3530764705772340377
+    second: Sa-X 1_49
+  - first:
+      213: -3618104782435754782
+    second: Sa-X 1_50
+  - first:
+      213: 4362596634903582365
+    second: Sa-X 1_51
+  - first:
+      213: -4989524440133615631
+    second: Sa-X 1_52
+  - first:
+      213: 4165577019717090495
+    second: Sa-X 1_53
+  - first:
+      213: 561146689759264779
+    second: Sa-X Run_01
+  - first:
+      213: -8233649483528942165
+    second: Sa-X Run_02
+  - first:
+      213: -8668756779458450318
+    second: Sa-X Run_03
+  - first:
+      213: 6885085834903493924
+    second: Sa-X Run_04
+  - first:
+      213: 2392157826761881042
+    second: Sa-X Run_05
+  - first:
+      213: 3331881808199359692
+    second: Sa-X Run_06
+  - first:
+      213: 5490747848719851883
+    second: Sa-X Run_07
+  - first:
+      213: 2925692221909397836
+    second: Sa-X Run_08
+  - first:
+      213: -3453509766049641235
+    second: Sa-X Run_09
+  - first:
+      213: 5581457438734535296
+    second: Sa-X Run_10
+  - first:
+      213: -3093910071243919475
+    second: Sa-X Taunt_01
+  - first:
+      213: 9065392043866279006
+    second: Sa-X Taunt_02
+  - first:
+      213: 8552191935664070172
+    second: Sa-X Taunt_03
+  - first:
+      213: 2608955236545471441
+    second: Sa-X Taunt_04
+  - first:
+      213: -5198748826202177476
+    second: Sa-X Taunt_05
+  - first:
+      213: -7422467071540084889
+    second: Sa-X Taunt_06
+  - first:
+      213: 2991072209489212268
+    second: Sa-X Taunt_07
+  - first:
+      213: 7082112735409318097
+    second: Sa-X Hurt_01
+  - first:
+      213: 8434814122498768624
+    second: Sa-X Hurt_02
+  - first:
+      213: -925702282431269375
+    second: Sa-X 1_73
+  - first:
+      213: 307215189246804184
+    second: Sa-X 1_74
+  - first:
+      213: -5010767804112096813
+    second: Sa-X Crouch_01
+  - first:
+      213: 1499571886758475446
+    second: Sa-X 1_76
+  - first:
+      213: 7419418699509479723
+    second: Sa-X 1_77
+  - first:
+      213: -3135979880987480341
+    second: Sa-X 1_78
+  - first:
+      213: -8345248455577046506
+    second: Sa-X Chozo
+  - first:
+      213: 7992569187955498252
+    second: Sa-X Ship
+  - first:
+      213: 9182536133616442960
+    second: Sa-X Jump_01
+  - first:
+      213: -1767936925460607862
+    second: Sa-X Jump_02
+  - first:
+      213: -2719623695467479976
+    second: Sa-X Jump_03
+  - first:
+      213: 3651159144959250631
+    second: Sa-X Jump_04
+  - first:
+      213: 8294459952861047690
+    second: Sa-X Jump_05
+  - first:
+      213: -4019478109545680672
+    second: Sa-X 1_86
+  - first:
+      213: -7622132237877821417
+    second: Sa-X 1_87
+  - first:
+      213: 8299058754222020008
+    second: Sa-X 1_88
+  - first:
+      213: -3346085854401070872
+    second: Sa-X Missile_01
+  - first:
+      213: 2803757837638236862
+    second: Sa-X Missile_02
+  - first:
+      213: -6113392325899341332
+    second: Sa-X Missile_03
+  - first:
+      213: -1415739664675269667
+    second: Sa-X 1_92
+  - first:
+      213: -7600198498463423312
+    second: Sa-X 1_93
+  - first:
+      213: -1553560832240471095
+    second: Sa-X 1_94
+  - first:
+      213: 4405750807153216392
+    second: Sa-X 1_95
+  - first:
+      213: 2696967613734662556
+    second: Sa-X 1_96
+  - first:
+      213: 9012413834597887113
+    second: Sa-X 1_97
+  - first:
+      213: -1469013485038944142
+    second: Sa-X 1_98
+  - first:
+      213: 6558650312201885786
+    second: Sa-X 1_99
+  - first:
+      213: -3971870057847998160
+    second: Sa-X 1_100
+  - first:
+      213: 3707913982036027255
+    second: Sa-X Super_Missile_01
+  - first:
+      213: -6823715348470833945
+    second: Sa-X Super_Missile_02
+  - first:
+      213: -6232153722408341177
+    second: Sa-X Super_Missile_03
+  - first:
+      213: 5061028534172654891
+    second: Sa-X 1_104
+  - first:
+      213: -2659051673735165797
+    second: Sa-X 1_105
+  - first:
+      213: 1631516519853167862
+    second: Sa-X 1_106
+  - first:
+      213: -5849224254713757374
+    second: Sa-X 1_107
+  - first:
+      213: -1824272315582921010
+    second: Sa-X 1_108
+  - first:
+      213: -244327236836647071
+    second: Sa-X 1_109
+  - first:
+      213: -2059587956289970305
+    second: Sa-X 1_110
+  - first:
+      213: 5361144952259648251
+    second: Sa-X 1_111
+  - first:
+      213: 3802770219268717460
+    second: Sa-X 1_112
+  - first:
+      213: 7800431284138493367
+    second: Sa-X 1_113
+  - first:
+      213: 3213082757530588300
+    second: Sa-X 1_114
+  - first:
+      213: -2881462852827090378
+    second: Sa-X 1_115
+  - first:
+      213: 843659619117780483
+    second: Sa-X 1_116
+  - first:
+      213: -8549270838889916047
+    second: Sa-X 1_117
+  - first:
+      213: -7993235077094451431
+    second: Sa-X 1_118
+  - first:
+      213: 8800691232550520674
+    second: Sa-X 1_119
+  - first:
+      213: 3333297483600063725
+    second: Sa-X 1_120
+  - first:
+      213: -7596366389995673747
+    second: Sa-X Idle_01
+  - first:
+      213: -2499660135971439726
+    second: Sa-X Idle_02
+  - first:
+      213: 8494660908392542165
+    second: Sa-X 1_3
+  - first:
+      213: -448279273341993955
+    second: Sa-X 1_4
+  - first:
+      213: -9152294811962326700
+    second: Sa-X 1_5
+  - first:
+      213: 929063622677565837
+    second: Sa-X 1_6
+  - first:
+      213: -9206770809813580717
+    second: Sa-X 1_7
+  - first:
+      213: 6547877451768545923
+    second: Sa-X 1_8
+  - first:
+      213: 4118722894391310531
+    second: Sa-X 1_9
+  - first:
+      213: -4460744436701362465
+    second: Sa-X 1_10
+  - first:
+      213: 4400488596843535686
+    second: Sa-X 1_11
+  - first:
+      213: -1587324703082945007
+    second: Sa-X 1_12
+  - first:
+      213: -8786926022288192153
+    second: Sa-X 1_13
+  - first:
+      213: -558573808223149931
+    second: Sa-X 1_14
+  - first:
+      213: 6241769750710948245
+    second: Sa-X 1_15
+  - first:
+      213: -4763729647006497371
+    second: Sa-X 1_16
+  - first:
+      213: 8744353763548722065
+    second: Sa-X 1_17
+  - first:
+      213: 607514134515179594
+    second: Sa-X 1_18
+  - first:
+      213: -8073896410961049692
+    second: Sa-X 1_19
+  - first:
+      213: 274303752942774342
+    second: Sa-X 1_20
+  - first:
+      213: -2000640862876153132
+    second: Sa-X 1_21
+  - first:
+      213: -1309833104393215847
+    second: Sa-X 1_22
+  - first:
+      213: 3486316346660360696
+    second: Sa-X 1_23
+  - first:
+      213: 3047273556428162298
+    second: Sa-X 1_24
+  - first:
+      213: 412831981691107817
+    second: Sa-X 1_25
+  - first:
+      213: 5461127287671560881
+    second: Sa-X 1_26
+  - first:
+      213: -7748225858713374897
+    second: Sa-X 1_27
+  - first:
+      213: 443855586857010852
+    second: Sa-X 1_28
+  - first:
+      213: 2417906820284954633
+    second: Sa-X 1_29
+  - first:
+      213: 359140808197503096
+    second: Sa-X 1_30
+  - first:
+      213: 778389788457946054
+    second: Sa-X 1_31
+  - first:
+      213: 7254429236145332194
+    second: Sa-X 1_32
+  - first:
+      213: -4105245461266114420
+    second: Sa-X 1_33
+  - first:
+      213: 4931806598558808960
+    second: Sa-X Walk_01
+  - first:
+      213: 3399541026317763462
+    second: Sa-X Walk_02
+  - first:
+      213: 1599881054707908986
+    second: Sa-X Walk_03
+  - first:
+      213: -1131866116760809386
+    second: Sa-X Walk_04
+  - first:
+      213: -1533514092618125462
+    second: Sa-X Walk_05
+  - first:
+      213: 4045319150830880324
+    second: Sa-X Walk_06
+  - first:
+      213: -4294965666723935151
+    second: Sa-X Walk_07
+  - first:
+      213: -3939971304508053802
+    second: Sa-X Walk_08
+  - first:
+      213: -4477572198589370734
+    second: Sa-X Walk_09
+  - first:
+      213: 3774190024785389393
+    second: Sa-X Walk_10
+  - first:
+      213: -6616113808315822407
+    second: Sa-X 1_44
+  - first:
+      213: -3733251817568766271
+    second: Sa-X 1_45
+  - first:
+      213: 5969658543092008554
+    second: Sa-X 1_46
+  - first:
+      213: -1281478699797641625
+    second: Sa-X 1_47
+  - first:
+      213: 2110926557032914617
+    second: Sa-X 1_48
+  - first:
+      213: 7601223230878954932
+    second: Sa-X 1_49
+  - first:
+      213: 2066918279560986933
+    second: Sa-X 1_50
+  - first:
+      213: 3707414195676970128
+    second: Sa-X 1_51
+  - first:
+      213: -8540559526583807142
+    second: Sa-X 1_52
+  - first:
+      213: 8438678456785672732
+    second: Sa-X 1_53
+  - first:
+      213: -1013818996132589963
+    second: Sa-X Run_01
+  - first:
+      213: 5966804080026549499
+    second: Sa-X Run_02
+  - first:
+      213: 2724996337363377538
+    second: Sa-X Run_03
+  - first:
+      213: 2382114974084196014
+    second: Sa-X Run_04
+  - first:
+      213: -7292252624234222241
+    second: Sa-X Run_05
+  - first:
+      213: 6006132952055314006
+    second: Sa-X Run_06
+  - first:
+      213: 4775125292817231330
+    second: Sa-X Run_07
+  - first:
+      213: 4558679585886718906
+    second: Sa-X Run_08
+  - first:
+      213: -1623911999935576397
+    second: Sa-X Run_09
+  - first:
+      213: 5509190229941375094
+    second: Sa-X Run_10
+  - first:
+      213: -2255954195448842590
+    second: Sa-X Taunt_01
+  - first:
+      213: -6480070787220361747
+    second: Sa-X Taunt_02
+  - first:
+      213: 5618130947709302647
+    second: Sa-X Taunt_03
+  - first:
+      213: 3775334659659684965
+    second: Sa-X Taunt_04
+  - first:
+      213: 3096245635074668473
+    second: Sa-X Taunt_05
+  - first:
+      213: 5666199302270291162
+    second: Sa-X Taunt_06
+  - first:
+      213: 2156578642657131049
+    second: Sa-X Taunt_07
+  - first:
+      213: -6464399495063586951
+    second: Sa-X Hurt_01
+  - first:
+      213: 3101295122547275063
+    second: Sa-X Hurt_02
+  - first:
+      213: 1134364475500870982
+    second: Sa-X 1_73
+  - first:
+      213: -9835617849561422
+    second: Sa-X 1_74
+  - first:
+      213: 7830873185281311573
+    second: Sa-X Crouch_01
+  - first:
+      213: 3146806351964989200
+    second: Sa-X 1_76
+  - first:
+      213: 6872386137950370354
+    second: Sa-X 1_77
+  - first:
+      213: -549655326190212269
+    second: Sa-X 1_78
+  - first:
+      213: 7421442718398191624
+    second: Sa-X 1_79
+  - first:
+      213: 6641931803775616001
+    second: Sa-X 1_80
+  - first:
+      213: 527311202963499494
+    second: Sa-X Jump_01
+  - first:
+      213: 782323850244215574
+    second: Sa-X Jump_02
+  - first:
+      213: 5374967781154748411
+    second: Sa-X Jump_03
+  - first:
+      213: -3320005982992114122
+    second: Sa-X Jump_04
+  - first:
+      213: 1822269559648672330
+    second: Sa-X 1_85
+  - first:
+      213: -9063581130615074787
+    second: Sa-X 1_86
+  - first:
+      213: -973273505171606625
+    second: Sa-X 1_87
+  - first:
+      213: 4683286798407367902
+    second: Sa-X 1_88
+  - first:
+      213: -356693690543869265
+    second: Sa-X 1_89
+  - first:
+      213: -279004573683322276
+    second: Sa-X 1_90
+  - first:
+      213: 6611428200624961635
+    second: Sa-X 1_91
+  - first:
+      213: 8165491437003567583
+    second: Sa-X 1_92
+  - first:
+      213: -1031040448679266585
+    second: Sa-X 1_93
+  - first:
+      213: 4812690198607307306
+    second: Sa-X 1_94
+  - first:
+      213: -4569946676603916665
+    second: Sa-X 1_95
+  - first:
+      213: 8406077305132294762
+    second: Sa-X 1_96
+  - first:
+      213: 5548196909509601474
+    second: Sa-X 1_97
+  - first:
+      213: 112161018389585766
+    second: Sa-X 1_98
+  - first:
+      213: 1986272884131581618
+    second: Sa-X 1_99
+  - first:
+      213: -8524049634792586732
+    second: Sa-X 1_100
+  - first:
+      213: -8453172973575019952
+    second: Sa-X 1_101
+  - first:
+      213: 5246764976981753066
+    second: Sa-X 1_102
+  - first:
+      213: -4649978564578928713
+    second: Sa-X 1_103
+  - first:
+      213: 6923213313059106280
+    second: Sa-X 1_104
+  - first:
+      213: 3721296820856862063
+    second: Sa-X 1_105
+  - first:
+      213: 6481471793700031649
+    second: Sa-X 1_106
+  - first:
+      213: 5390551702787653761
+    second: Sa-X 1_107
+  - first:
+      213: 1679972369559989639
+    second: Sa-X 1_108
+  - first:
+      213: -492050306999925940
+    second: Sa-X 1_109
+  - first:
+      213: -886858564567728773
+    second: Sa-X 1_110
+  - first:
+      213: -7501456750576988760
+    second: Sa-X 1_111
+  - first:
+      213: 4166583780647078398
+    second: Sa-X 1_112
+  - first:
+      213: -8078312222797364680
+    second: Sa-X 1_113
+  - first:
+      213: -5572127984445173268
+    second: Sa-X 1_114
+  - first:
+      213: -1752414222617948159
+    second: Sa-X 1_115
+  - first:
+      213: -7053533623544983081
+    second: Sa-X 1_116
+  - first:
+      213: 468708519975766382
+    second: Sa-X 1_117
+  - first:
+      213: -5298056227701289736
+    second: Sa-X 1_118
+  - first:
+      213: 6753492642708320437
+    second: Sa-X 1_119
+  - first:
+      213: -1186005577534524649
+    second: Sa-X 1_120
+  - first:
+      213: 459630907012474216
+    second: Sa-X Idle_01
+  - first:
+      213: -6659191440662923099
+    second: Sa-X Idle_02
+  - first:
+      213: 3006945358133366081
+    second: Sa-X 1_2
+  - first:
+      213: 7853358228493970210
+    second: Sa-X Walk_01
+  - first:
+      213: 8185688588503047662
+    second: Sa-X Walk_02
+  - first:
+      213: -1918123536583225076
+    second: Sa-X Walk_03
+  - first:
+      213: 2020803038896142327
+    second: Sa-X Walk_04
+  - first:
+      213: -4585854667187666569
+    second: Sa-X Walk_05
+  - first:
+      213: -435825810922744021
+    second: Sa-X Walk_06
+  - first:
+      213: 7636828450293112667
+    second: Sa-X Walk_07
+  - first:
+      213: 7690494530757210133
+    second: Sa-X Walk_08
+  - first:
+      213: -3496072513884498038
+    second: Sa-X Walk_09
+  - first:
+      213: -1021928627996127865
+    second: Sa-X Walk_10
+  - first:
+      213: 561146689759264779
+    second: Sa-X Run_01
+  - first:
+      213: -8233649483528942165
+    second: Sa-X Run_02
+  - first:
+      213: -8668756779458450318
+    second: Sa-X Run_03
+  - first:
+      213: 6885085834903493924
+    second: Sa-X Run_04
+  - first:
+      213: 2392157826761881042
+    second: Sa-X Run_05
+  - first:
+      213: 3331881808199359692
+    second: Sa-X Run_06
+  - first:
+      213: 5490747848719851883
+    second: Sa-X Run_07
+  - first:
+      213: 2925692221909397836
+    second: Sa-X Run_08
+  - first:
+      213: -3453509766049641235
+    second: Sa-X Run_09
+  - first:
+      213: 5581457438734535296
+    second: Sa-X Run_10
+  - first:
+      213: -3093910071243919475
+    second: Sa-X Taunt_01
+  - first:
+      213: 9065392043866279006
+    second: Sa-X Taunt_02
+  - first:
+      213: 8552191935664070172
+    second: Sa-X Taunt_03
+  - first:
+      213: 2608955236545471441
+    second: Sa-X Taunt_04
+  - first:
+      213: -5198748826202177476
+    second: Sa-X Taunt_05
+  - first:
+      213: -7422467071540084889
+    second: Sa-X Taunt_06
+  - first:
+      213: 2991072209489212268
+    second: Sa-X Taunt_07
+  - first:
+      213: -5010767804112096813
+    second: Sa-X Crouch_01
+  - first:
+      213: -8345248455577046506
+    second: Sa-X 1_79
+  - first:
+      213: 7992569187955498252
+    second: Sa-X 1_80
+  - first:
+      213: 9182536133616442960
+    second: Sa-X Jump_01
+  - first:
+      213: -1767936925460607862
+    second: Sa-X Jump_02
+  - first:
+      213: -2719623695467479976
+    second: Sa-X Jump_03
+  - first:
+      213: 3651159144959250631
+    second: Sa-X Jump_04
+  - first:
+      213: 8294459952861047690
+    second: Sa-X 1_85
+  - first:
+      213: -3346085854401070872
+    second: Sa-X 1_89
+  - first:
+      213: 2803757837638236862
+    second: Sa-X 1_90
+  - first:
+      213: -6113392325899341332
+    second: Sa-X 1_91
+  - first:
+      213: 3707913982036027255
+    second: Sa-X 1_101
+  - first:
+      213: -6823715348470833945
+    second: Sa-X 1_102
+  - first:
+      213: -6232153722408341177
+    second: Sa-X 1_103
+  - first:
+      213: -2499660135971439726
+    second: Sa-X Idle_01
+  - first:
+      213: -2499660135971439726
+    second: Sa-X Attack_01
+  - first:
+      213: 4931806598558808960
+    second: Sa-X Attack_03
+  - first:
+      213: 3399541026317763462
+    second: Sa-X Attack_02
+  - first:
+      213: 5970880025279786739
+    second: Sa-X Idle_01
+  - first:
+      213: -4620141368003719590
+    second: Sa-X 1_1
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 357, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sa-X 1_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 383
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df622ce61913e570800000000000000
+      internalID: 8494660908392542165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 383
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb740406467c9f0800000000000000
+      internalID: -448279273341993955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 383
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451c5550c548cf080800000000000000
+      internalID: -9152294811962326700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 383
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d811f634172b4ec00800000000000000
+      internalID: 929063622677565837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 383
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35440a06abafa3080800000000000000
+      internalID: -9206770809813580717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 383
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3824479a9dbbeda50800000000000000
+      internalID: 6547877451768545923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 391
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8767886a4a82930800000000000000
+      internalID: 4118722894391310531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 391
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd68d90a1904812c0800000000000000
+      internalID: -4460744436701362465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 385
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d1405601da11d30800000000000000
+      internalID: 4400488596843535686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 385
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116e981b790b8f9e0800000000000000
+      internalID: -1587324703082945007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_13
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 385
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d40ed76519e0680800000000000000
+      internalID: -8786926022288192153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_14
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 385
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590a504b41c8f38f0800000000000000
+      internalID: -558573808223149931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_15
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 385
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59197e894883f9650800000000000000
+      internalID: 6241769750710948245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_16
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 385
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a54e281025d3edb0800000000000000
+      internalID: -4763729647006497371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_17
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 384
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193fbaa1b6f2a5970800000000000000
+      internalID: 8744353763548722065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 336
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a406ec7f2e25e6800800000000000000
+      internalID: 607514134515179594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 336
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a78d57ddf1c3ff80800000000000000
+      internalID: -8073896410961049692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 336
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648e5ba5fc58ec300800000000000000
+      internalID: 274303752942774342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 336
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dac22d2cbb4c34e0800000000000000
+      internalID: -2000640862876153132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99068993bb982dde0800000000000000
+      internalID: -1309833104393215847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f11459fe32e16030800000000000000
+      internalID: 3486316346660360696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_24
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 336
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4875887271a4a20800000000000000
+      internalID: 3047273556428162298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 336
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e97e94008caab500800000000000000
+      internalID: 412831981691107817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_26
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 336
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1bd67552d9cb40800000000000000
+      internalID: 5461127287671560881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_27
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 339
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa4e322a5c87490800000000000000
+      internalID: -7748225858713374897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_28
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 335
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a64f2afd44e82600800000000000000
+      internalID: 443855586857010852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_29
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 335
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908341341712e8120800000000000000
+      internalID: 2417906820284954633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_30
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 335
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87875f889acebf400800000000000000
+      internalID: 359140808197503096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_31
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 335
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbc3d573656dca00800000000000000
+      internalID: 778389788457946054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_32
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 332
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef96a464f8eca460800000000000000
+      internalID: 7254429236145332194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_33
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 332
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d275e00d3707c0800000000000000
+      internalID: -4105245461266114420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_44
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 288
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be47c58b87de24a0800000000000000
+      internalID: -6616113808315822407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_45
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c67bb46043d03cc0800000000000000
+      internalID: -3733251817568766271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_46
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66006bf0dc78d250800000000000000
+      internalID: 5969658543092008554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_47
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766055f79e5473ee0800000000000000
+      internalID: -1281478699797641625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_48
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be92eaf4848b4d10800000000000000
+      internalID: 2110926557032914617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_49
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5bcf66148fc7960800000000000000
+      internalID: 7601223230878954932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_50
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318ef8693b2fac10800000000000000
+      internalID: 2066918279560986933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_51
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf0987191637330800000000000000
+      internalID: 3707414195676970128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_52
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53d4e24c56d97980800000000000000
+      internalID: -8540559526583807142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_53
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 289
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a937ea8553c1570800000000000000
+      internalID: 8438678456785672732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Hurt_01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977358ab8e6d946a0800000000000000
+      internalID: -6464399495063586951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Hurt_02
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 191
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735f41b8b730a0b20800000000000000
+      internalID: 3101295122547275063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_73
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 190
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d3d08fa721ebf00800000000000000
+      internalID: 1134364475500870982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_74
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 190
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be2ee3ce8e0ddff0800000000000000
+      internalID: -9835617849561422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_76
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 195
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017e0d164b3bbab20800000000000000
+      internalID: 3146806351964989200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_77
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 195
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ab9dfe7ce9f5f50800000000000000
+      internalID: 6872386137950370354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_78
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 195
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35be78d946b3f58f0800000000000000
+      internalID: -549655326190212269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_86
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 144
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1051cc8bf0b73280800000000000000
+      internalID: -9063581130615074787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9372f657ec3e72f0800000000000000
+      internalID: -973273505171606625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_88
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 144
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcf850b7806ef040800000000000000
+      internalID: 4683286798407367902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_92
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 105
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd177170337a15170800000000000000
+      internalID: 8165491437003567583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_93
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 106
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6b963bc2201b1f0800000000000000
+      internalID: -1031040448679266585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_94
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 106
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a222ef5ac3c1ac240800000000000000
+      internalID: 4812690198607307306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_95
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 106
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78eeb82d5b94490c0800000000000000
+      internalID: -4569946676603916665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_96
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 107
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6222ee85c268a470800000000000000
+      internalID: 8406077305132294762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_97
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 96
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c86d3f81b72ffc40800000000000000
+      internalID: 5548196909509601474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_98
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 96
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fd1ca1ad97e8100800000000000000
+      internalID: 112161018389585766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_99
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 96
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be47a51aa8a09b10800000000000000
+      internalID: 1986272884131581618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_100
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 96
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412c36ef40e74b980800000000000000
+      internalID: -8524049634792586732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_104
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 75
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eda425d3d1341060800000000000000
+      internalID: 6923213313059106280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_105
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 75
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65b6f60eb3b4a330800000000000000
+      internalID: 3721296820856862063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_106
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 75
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac443d8140d2f950800000000000000
+      internalID: 6481471793700031649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_107
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 75
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180090c96361fca40800000000000000
+      internalID: 5390551702787653761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_108
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 48
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d281028f5705710800000000000000
+      internalID: 1679972369559989639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_109
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 48
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c5af4ad2eb29f0800000000000000
+      internalID: -492050306999925940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_110
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 48
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d7de495de31b3f0800000000000000
+      internalID: -886858564567728773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_111
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 48
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad07eb64d875e790800000000000000
+      internalID: -7501456750576988760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_112
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 48
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef98f5c7fdda2d930800000000000000
+      internalID: 4166583780647078398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_113
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 48
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832877785d114ef80800000000000000
+      internalID: -8078312222797364680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_114
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 48
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1d12cde13dba2b0800000000000000
+      internalID: -5572127984445173268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_115
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100d3899c8c2ea7e0800000000000000
+      internalID: -1752414222617948159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_116
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1d3556a80dc1e90800000000000000
+      internalID: -7053533623544983081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_117
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69ca546aef218600800000000000000
+      internalID: 468708519975766382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_118
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc81d36ee58976b0800000000000000
+      internalID: -5298056227701289736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_119
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0f7d9e6c939bd50800000000000000
+      internalID: 6753492642708320437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_120
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7133c6106367a8fe0800000000000000
+      internalID: -1186005577534524649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_0
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 97
+        width: 1
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865e44cefdfe06600800000000000000
+      internalID: 459630907012474216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Idle_02
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 384
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8f6f7aaacc593a0800000000000000
+      internalID: -6659191440662923099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 384
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d8c8a2fd0dab920800000000000000
+      internalID: 3006945358133366081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Walk_01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 288
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b264f23bbbcfc60800000000000000
+      internalID: 7853358228493970210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Walk_02
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 287
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed51bfc668699170800000000000000
+      internalID: 8185688588503047662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Walk_03
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 287
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0114ae5ec47165e0800000000000000
+      internalID: -1918123536583225076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Walk_04
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 287
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f73f6e38a55b0c10800000000000000
+      internalID: 2020803038896142327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Walk_05
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 287
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77146b22a75cb50c0800000000000000
+      internalID: -4585854667187666569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Walk_06
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 287
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27d00cebb2a3f9f0800000000000000
+      internalID: -435825810922744021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Walk_07
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 287
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f515e83077bf960800000000000000
+      internalID: 7636828450293112667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Walk_08
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 287
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5103edc97002aba60800000000000000
+      internalID: 7690494530757210133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Walk_09
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 287
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8758e452947b7fc0800000000000000
+      internalID: -3496072513884498038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Walk_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 287
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d0d76c35161d1f0800000000000000
+      internalID: -1021928627996127865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Run_01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 240
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00ccf5f0f799c700800000000000000
+      internalID: 561146689759264779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Run_02
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 240
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badcd212b633cbd80800000000000000
+      internalID: -8233649483528942165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Run_03
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 240
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cae1c53a362b780800000000000000
+      internalID: -8668756779458450318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Run_04
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 240
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d1f7d861dbc8f50800000000000000
+      internalID: 6885085834903493924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Run_05
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 240
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5ffc68ed6a23120800000000000000
+      internalID: 2392157826761881042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Run_06
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 240
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc1f4bf9d83d3e20800000000000000
+      internalID: 3331881808199359692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Run_07
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 240
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61ef22c31e033c40800000000000000
+      internalID: 5490747848719851883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Run_08
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 240
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41780923952a9820800000000000000
+      internalID: 2925692221909397836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Run_09
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 240
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc44e4a2ba210d0800000000000000
+      internalID: -3453509766049641235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Run_10
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 240
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08acbbcf7f1557d40800000000000000
+      internalID: 5581457438734535296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Taunt_01
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 240
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fa084be293015d0800000000000000
+      internalID: -3093910071243919475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Taunt_02
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 240
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c4d4c880ebecd70800000000000000
+      internalID: 9065392043866279006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Taunt_03
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 240
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e9738014d7fa670800000000000000
+      internalID: 8552191935664070172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Taunt_04
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 240
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3203df6fed43420800000000000000
+      internalID: 2608955236545471441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Taunt_05
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 240
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c308db99c755ad7b0800000000000000
+      internalID: -5198748826202177476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Taunt_06
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 240
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fb1db36891ef890800000000000000
+      internalID: -7422467071540084889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Taunt_07
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63b520c35c628920800000000000000
+      internalID: 2991072209489212268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Crouch_01
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 195
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d13fe7fa3d267ab0800000000000000
+      internalID: -5010767804112096813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_79
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 160
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612f3f2aeb8bf2c80800000000000000
+      internalID: -8345248455577046506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_80
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 144
+        width: 188
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dd1da745f4bee60800000000000000
+      internalID: 7992569187955498252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Jump_01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 144
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e956d56fbee6f70800000000000000
+      internalID: 9182536133616442960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Jump_02
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 148
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ccf94bbb60777e0800000000000000
+      internalID: -1767936925460607862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Jump_03
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 148
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cfcec78a4f14ad0800000000000000
+      internalID: -2719623695467479976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Jump_04
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 147
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c017bdc5e58ba230800000000000000
+      internalID: 3651159144959250631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_85
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 145
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b6cf59167db1370800000000000000
+      internalID: 8294459952861047690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_89
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 117
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8f67cc4a05091d0800000000000000
+      internalID: -3346085854401070872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_90
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 117
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaf4acf5e2f8e620800000000000000
+      internalID: 2803757837638236862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_91
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 117
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1bb2ad11ed82ba0800000000000000
+      internalID: -6113392325899341332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77726fc0f18257330800000000000000
+      internalID: 3707913982036027255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_102
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 94
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecd30e4b0b4d41a0800000000000000
+      internalID: -6823715348470833945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_103
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 95
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741f8367531f289a0800000000000000
+      internalID: -6232153722408341177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Attack_01
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bb730a95c6f4dd0800000000000000
+      internalID: -2499660135971439726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Attack_03
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b7608b8fb417440800000000000000
+      internalID: 4931806598558808960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Attack_02
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68389094d889d2f20800000000000000
+      internalID: 3399541026317763462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X Idle_01
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 384
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee6477fb3dcd250800000000000000
+      internalID: 5970880025279786739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sa-X 1_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e0d0487e5f1efb0800000000000000
+      internalID: -4620141368003719590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
