@@ -5,6 +5,7 @@ public class Door : MonoBehaviour
 {
     private Rigidbody2D m_Rigidbody2D;
 
+    //
     // Start is called before the first frame update
     public float speed;
     public BoxCollider2D col1, col2;
