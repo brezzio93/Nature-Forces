@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CameraFollow2D : MonoBehaviour
 {
+    //Comment test
     [SerializeField]
     GameObject player;
 
