@@ -12,8 +12,11 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Transform m_CeilingCheck;                          // A position marking where to check for ceilings
     [SerializeField] private Transform m_GroundCheck;                           // A position marking where to check if the player is grounded.
     [SerializeField] private Collider2D m_CrouchDisableCollider1;                // A collider that will be disabled when crouching
+
     //[SerializeField] private Collider2D m_CrouchDisableCollider2;                // A collider that will be disabled when crouching
-    [SerializeField] private CircleCollider2D    m_CrouchDisableCollider2;                // A collider that will be disabled when crouching
+    [SerializeField] private CircleCollider2D m_CrouchDisableCollider2;                // A collider that will be disabled when crouching
+
+    [SerializeField] private BoxCollider2D m_AirDisableCollider;                // A collider that will be disabled when crouching
     private int jumpCount = 0;
     public bool hurt;
     public bool attacking;
@@ -44,7 +47,6 @@ public class PlayerController : MonoBehaviour
 
     public void HandleJumping()
     {
-
         if (isGrounded())
         {
             jumpCount = 0;
@@ -56,13 +58,14 @@ public class PlayerController : MonoBehaviour
             m_Rigidbody2D.velocity = Vector2.up * m_JumpForce;
             jumpCount = 0;
         }
-        if (isOnWall)
+
+        if (!isGrounded() && isOnWall)
         {
             float jumpDir;
-            if (m_FacingRight)  jumpDir = -1f;
+            if (m_FacingRight) jumpDir = -1f;
             else jumpDir = 1f;
-            
-            Vector3 targetVelocity = new Vector2(jumpDir *20 * 10f, 7f*m_JumpForce);            
+
+            Vector3 targetVelocity = new Vector2(jumpDir * 20 * 10f, 7f * m_JumpForce);
             m_Rigidbody2D.velocity = Vector3.SmoothDamp(m_Rigidbody2D.velocity, targetVelocity, ref m_Velocity, m_MovementSmoothing);
 
             jumpCount = 0;
@@ -70,7 +73,7 @@ public class PlayerController : MonoBehaviour
     }
 
     public void HandleMovement(float move, bool crouch)
-    {        
+    {
         // If crouching, check to see if the character can stand up
         if (!crouch)
         {
@@ -81,9 +84,12 @@ public class PlayerController : MonoBehaviour
             }
         }
         if (isGrounded())
-        {            
+        {
             GetComponent<PlayerMovement>().animator.SetBool("isOnWall", false);
-            if(!isOnWall) m_Rigidbody2D.gravityScale = 3;
+            if (!isOnWall) m_Rigidbody2D.gravityScale = 3;
+
+            if (m_AirDisableCollider != null)
+                m_AirDisableCollider.enabled = true;
             // If crouching
             if (crouch)
             {
@@ -119,6 +125,17 @@ public class PlayerController : MonoBehaviour
         }
         if (!isGrounded())
         {
+            /*
+            if (isLanding())
+            {
+                if (m_AirDisableCollider != null) m_AirDisableCollider.enabled = true;
+                Debug.Log("IsLanding");
+            }
+            else
+            {
+                if (m_AirDisableCollider != null) m_AirDisableCollider.enabled = false;
+                Debug.Log("IsNOTLanding");
+            }*/
             if (isWall())
             {
                 GetComponent<PlayerMovement>().animator.SetBool("isJumping", false);
@@ -128,17 +145,18 @@ public class PlayerController : MonoBehaviour
                 m_Rigidbody2D.gravityScale = 0;
 
                 GetComponent<PlayerMovement>().animator.SetBool("isOnWall", true);
-                isOnWall = true;
+                isOnWall = true;                
                 jumpCount = 1;
+
+                //Soltarse del muro al agacharse mientras cuelgas
                 if (crouch)
-                {                      
+                {
                     float jumpDir;
                     if (m_FacingRight) jumpDir = -1f;
                     else jumpDir = 1f;
 
-                    Vector3 dropVelocity = new Vector2(jumpDir * 20f, -1f * m_JumpForce);
+                    Vector3 dropVelocity = new Vector2(jumpDir * 80f, -1f * m_JumpForce);
                     m_Rigidbody2D.velocity = Vector3.SmoothDamp(m_Rigidbody2D.velocity, dropVelocity, ref m_Velocity, m_MovementSmoothing);
-
                 }
             }
             else
@@ -187,9 +205,15 @@ public class PlayerController : MonoBehaviour
 
     public bool isGrounded()
     {
-
         RaycastHit2D raycastHit2D = Physics2D.BoxCast(boxCollider2D.bounds.center, boxCollider2D.bounds.size, 0f, Vector2.down, 0.01f, platformLayerMask);
         //Debug.Log(raycastHit2D.collider);
+        return raycastHit2D.collider != null;
+    }
+
+    public bool isLanding()
+    {
+        RaycastHit2D raycastHit2D = Physics2D.BoxCast(m_AirDisableCollider.bounds.center, m_AirDisableCollider.bounds.size, 0f, Vector2.down, 0.01f, platformLayerMask);
+        Debug.Log(raycastHit2D.collider);
         return raycastHit2D.collider != null;
     }
 
@@ -218,6 +242,17 @@ public class PlayerController : MonoBehaviour
         Vector3 theScale = transform.localScale;
         theScale.x *= -1;
         transform.localScale = theScale;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        m_AirDisableCollider.enabled = true;
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (!isGrounded())
+            m_AirDisableCollider.enabled = false;
     }
 
     /*
@@ -256,7 +291,7 @@ public class PlayerController : MonoBehaviour
         hurt = true;
         float timer = 0;
         m_Rigidbody2D.velocity = m_Velocity;
-        
+
         while (knockDur > timer)
         {
             timer += Time.deltaTime;

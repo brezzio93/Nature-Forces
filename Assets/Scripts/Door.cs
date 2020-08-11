@@ -7,6 +7,7 @@ public class Door : MonoBehaviour
 
     // Start is called before the first frame update
     public float speed;
+    public BoxCollider2D col1, col2;
 
     public Vector3 basePos;
 
@@ -30,23 +31,34 @@ public class Door : MonoBehaviour
         }
     }
 
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            
+            StartCoroutine(CloseDoor());
+        }
+    }
+
     public IEnumerator OpenDoor(Collision2D other)
     {
         Debug.Log("OpenDoor");
         m_Rigidbody2D.velocity = new Vector2(0, Time.deltaTime * speed);
-        yield return new WaitForSeconds(.5f);
-
+        yield return new WaitForSeconds(.5f);        
         GetComponent<BoxCollider2D>().enabled = false;
         m_Rigidbody2D.velocity = new Vector2(0, 0);
         yield return new WaitForSeconds(3f);
-        StartCoroutine(CloseDoor(other));
+        col1.enabled = col2.enabled = true;
     }
 
-    public IEnumerator CloseDoor(Collision2D other)
+    public IEnumerator CloseDoor()
     {
         Debug.Log("CloseDoor");
+        m_Rigidbody2D.velocity = new Vector2(0, -Time.deltaTime * speed);
+        col1.enabled = col2.enabled = false;
         GetComponent<BoxCollider2D>().enabled = true;
+        yield return new WaitForSeconds(.5f);        
+        m_Rigidbody2D.velocity = new Vector2(0, 0);
         transform.position = basePos;
-        yield return 0;
     }
 }
