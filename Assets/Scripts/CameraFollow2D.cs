@@ -13,7 +13,7 @@ public class CameraFollow2D : MonoBehaviour
     [SerializeField] Vector2 posOffset;
     
     [SerializeField]
-    float leftLimit, rightLimit, bottomLimit, topLimit;
+    int leftLimit, rightLimit, bottomLimit, topLimit;
 
     private Vector3 velocity;
 
