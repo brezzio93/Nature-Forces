@@ -5,6 +5,7 @@
 [Bb]uilds/
 [Ll]ogs/
 /[Uu]ser[Ss]ettings/
+[Ll]ibrary/Artifacts
 # Never ignore Asset meta data
 ![Aa]ssets/**/*.meta
 

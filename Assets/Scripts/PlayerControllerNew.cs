@@ -10,6 +10,7 @@ public class PlayerControllerNew : MonoBehaviour
     public bool isWallSliding;
     private bool canNormalJump;
     private bool canWallJump;
+    private bool isTaunting;
     public int jumpAmount;
     public int jumpLefts;
     public int facingDirection = 1;
@@ -73,8 +74,9 @@ public class PlayerControllerNew : MonoBehaviour
             anim.SetBool("isTaunting", false);
             return;
         }
-        UpdateAnimation();
+
         CheckInput();
+        UpdateAnimation();
         CheckMovementDirection();
         CheckIfCanJump();
         CheckIfWallSliding();
@@ -91,21 +93,14 @@ public class PlayerControllerNew : MonoBehaviour
     private void UpdateAnimation()
     {
         if (!isGrounded && isTouchingWall && rb.velocity.y < 0)
-        {
-            anim.SetBool("isOnWall", isWallSliding);
-            anim.SetBool("isJumping", false);
-        }
+            anim.SetBool("isJumping", !isWallSliding);
         else
-        {
-            anim.SetBool("isOnWall", false);
-            anim.SetFloat("speed", Mathf.Abs(moveHorizontal * walkSpeed));
             anim.SetBool("isJumping", !isGrounded);
-            anim.SetBool("isCrouching", crouch);
+        anim.SetBool("isOnWall", isWallSliding);
+        anim.SetFloat("speed", Mathf.Abs(moveHorizontal * walkSpeed));
+        anim.SetBool("isCrouching", crouch);
 
-            if (Input.GetButton("Taunt"))
-                anim.SetBool("isTaunting", true);
-            else anim.SetBool("isTaunting", false);
-        }
+        anim.SetBool("isTaunting", isTaunting);
     }
 
     private void CheckInput()
@@ -156,6 +151,9 @@ public class PlayerControllerNew : MonoBehaviour
         {
             crouch = false;
         }
+        if (Input.GetButton("Taunt"))
+            isTaunting = true;
+        else isTaunting = false;
     }
 
     private void CheckMovementDirection()
@@ -215,7 +213,7 @@ public class PlayerControllerNew : MonoBehaviour
         }
         if (wallJumpTimer > 0)
         {
-            if(hasWallJumped && moveHorizontal== -lastWallJumpDirection)
+            if (hasWallJumped && moveHorizontal == -lastWallJumpDirection)
             {
                 rb.velocity = new Vector2(rb.velocity.x, 0f);
                 hasWallJumped = false;
@@ -226,7 +224,7 @@ public class PlayerControllerNew : MonoBehaviour
             }
             else
             {
-                wallJumpTimer=Time.deltaTime;
+                wallJumpTimer = Time.deltaTime;
             }
         }
     }
@@ -245,14 +243,6 @@ public class PlayerControllerNew : MonoBehaviour
 
     private void WallJump()
     {
-        //Wall Hop (No Direction)
-        //if (isWallSliding && moveHorizontal == 0 && canJump)
-        //{
-        //    isWallSliding = false;
-        //    jumpLefts--;
-        //    Vector2 forceToAdd = new Vector2(wallHopForce * wallHopDirection.x * -facingDirection, wallHopForce * wallHopDirection.y);
-        //    rb.AddForce(forceToAdd, ForceMode2D.Impulse);
-        //}
         //Wall Jump (Direction)
         if (canWallJump)
         {
@@ -276,7 +266,7 @@ public class PlayerControllerNew : MonoBehaviour
 
     private void CheckIfWallSliding()
     {
-        if (isTouchingWall  && rb.velocity.y <= 0)//&& moveHorizontal == facingDirection)//Esto ultimo obliga a estar presionando la dirección de la pared para seguir colgado
+        if (isTouchingWall && rb.velocity.y < -0.01f)//&& moveHorizontal == facingDirection)//Esto ultimo obliga a estar presionando la dirección de la pared para seguir colgado
         {
             isWallSliding = true;
             jumpLefts = jumpAmount;
@@ -289,10 +279,6 @@ public class PlayerControllerNew : MonoBehaviour
 
     private void ApplyMovement()
     {
-        ////THIS IS THE IMPORTANT CHANGE POINT
-        ///
-        //
-
         if (!isGrounded && !isWallSliding && moveHorizontal == 0)
         {
             rb.velocity = new Vector2(rb.velocity.x * airDragMultiplier, rb.velocity.y);
@@ -313,6 +299,10 @@ public class PlayerControllerNew : MonoBehaviour
             {
                 rb.velocity = new Vector2(rb.velocity.x, -wallSlideSpeed);
             }
+            if (crouch)
+            {
+                rb.velocity = new Vector2(-facingDirection * walkSpeed/2, -wallJumpForce/3);
+            }
         }
     }
 
@@ -326,7 +316,7 @@ public class PlayerControllerNew : MonoBehaviour
             Vector3 theScale = transform.localScale;
             theScale.x *= -1;
             //transform.localScale = theScale;
-            transform.Rotate(0.0f, 180.0f, 0.0f);
+            transform.Rotate(0.0f, 180.0f, 0.0f);//esto ayuda al isTouchingWall, ya que transform.right tambien funcionará si está mirando a la izquierda
         }
     }
 
