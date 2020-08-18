@@ -28,6 +28,18 @@ public class PlayerControllerNew : MonoBehaviour
     private float wallJumpTimer;
     private float wallJumpTimerSet = .5f;
 
+    public float ledgeClimbXOffset1 = 0f;
+    public float ledgeClimbYOffset1 = 0f;
+    public float ledgeClimbXOffset2 = 0f;
+    public float ledgeClimbYOffset2 = 0f;
+    private bool canClimb = false;
+    private bool ledgeDetected;
+    public Transform ledgeCheck;
+    private Vector2 ledgePosBot;
+    private Vector2 ledgePos1;
+    private Vector2 ledgePos2;
+    private bool isTouchingLedge;
+
     public float walkSpeed;
     public float jumpForce = 16f;
     public float groundCheckRadius;
@@ -74,6 +86,18 @@ public class PlayerControllerNew : MonoBehaviour
             anim.SetBool("isTaunting", false);
             return;
         }
+        if (anim.GetCurrentAnimatorStateInfo(0).IsName("SA-X_Climb"))
+        {
+            moveHorizontal = 0;
+            rb.velocity = new Vector2(0f, 0f);
+            anim.SetBool("canClimb", false);
+            return;
+        }
+        if (canClimb)
+        {
+            moveHorizontal = 0;
+            rb.velocity = new Vector2(0f, 0f);
+        }
 
         CheckInput();
         UpdateAnimation();
@@ -81,19 +105,23 @@ public class PlayerControllerNew : MonoBehaviour
         CheckIfCanJump();
         CheckIfWallSliding();
         CheckJump();
+        CheckLedgeClimb();
     }
 
     private void FixedUpdate()
     {
         ApplyMovement();
-        CheckSorroundings();
+        CheckSurroundings();
         DisableColliders();
     }
 
     private void UpdateAnimation()
     {
+
         if (!isGrounded && isTouchingWall && rb.velocity.y < 0)
+        {
             anim.SetBool("isJumping", !isWallSliding);
+        }
         else
             anim.SetBool("isJumping", !isGrounded);
         anim.SetBool("isOnWall", isWallSliding);
@@ -101,11 +129,14 @@ public class PlayerControllerNew : MonoBehaviour
         anim.SetBool("isCrouching", crouch);
 
         anim.SetBool("isTaunting", isTaunting);
+
+
     }
 
     private void CheckInput()
     {
         moveHorizontal = Input.GetAxisRaw("Horizontal");
+
         if (Input.GetButtonDown("Jump"))
         {
             if (isGrounded || (jumpLefts > 0 && !isTouchingWall))
@@ -129,20 +160,24 @@ public class PlayerControllerNew : MonoBehaviour
                 turnTimer = turnTimerSet;
             }
         }
-        if (!canMove)
+
+        if (turnTimer >= 0)
         {
             turnTimer -= Time.deltaTime;
+
             if (turnTimer <= 0)
             {
                 canMove = true;
                 canFlip = true;
             }
         }
-        if (!Input.GetButton("Jump") && checkJumpMultiplier)
+
+        if (checkJumpMultiplier && !Input.GetButton("Jump"))
         {
             checkJumpMultiplier = false;
             rb.velocity = new Vector2(rb.velocity.x, rb.velocity.y * variableJumpHeightMultiplier);
         }
+
         if (Input.GetButton("Crouch"))
         {
             crouch = true;
@@ -266,7 +301,7 @@ public class PlayerControllerNew : MonoBehaviour
 
     private void CheckIfWallSliding()
     {
-        if (isTouchingWall && rb.velocity.y < -0.01f)//&& moveHorizontal == facingDirection)//Esto ultimo obliga a estar presionando la dirección de la pared para seguir colgado
+        if (isTouchingWall && rb.velocity.y < -0.01f && !canClimb)//&& moveHorizontal == facingDirection)//Esto ultimo obliga a estar presionando la dirección de la pared para seguir colgado
         {
             isWallSliding = true;
             jumpLefts = jumpAmount;
@@ -275,6 +310,49 @@ public class PlayerControllerNew : MonoBehaviour
         {
             isWallSliding = false;
         }
+    }
+
+    private void CheckLedgeClimb()
+    {
+        if (ledgeDetected && !canClimb)
+        {
+            Debug.Log("!canClimb");
+            canClimb = true;
+
+            if (isFacingRight)
+            {
+                ledgePos1 = new Vector2(Mathf.Floor(ledgePosBot.x + wallCheckDistance) - ledgeClimbXOffset1, Mathf.Floor(ledgePosBot.y) + ledgeClimbYOffset1);
+                ledgePos2 = new Vector2(Mathf.Floor(ledgePosBot.x + wallCheckDistance) + ledgeClimbXOffset2, Mathf.Floor(ledgePosBot.y) + ledgeClimbYOffset2);
+            }
+            else
+            {
+                ledgePos1 = new Vector2(Mathf.Ceil(ledgePosBot.x - wallCheckDistance) + ledgeClimbXOffset1, Mathf.Floor(ledgePosBot.y) + ledgeClimbYOffset1);
+                ledgePos2 = new Vector2(Mathf.Ceil(ledgePosBot.x - wallCheckDistance) - ledgeClimbXOffset2, Mathf.Floor(ledgePosBot.y) + ledgeClimbYOffset2);
+            }
+
+            canMove = false;
+            canFlip = false;
+
+            anim.SetBool("canClimb", canClimb);
+            moveHorizontal = 0f;
+        }
+
+        if (canClimb)
+        {
+            transform.position = ledgePos1;
+        }
+    }
+
+    public void FinishLedgeClimb()
+    {
+        Debug.Log("canClimb");
+        moveHorizontal = 0f;
+        transform.position = ledgePos2;
+        canMove = true;
+        canFlip = true;
+        ledgeDetected = false;
+        canClimb = false;
+        anim.SetBool("canClimb", canClimb);
     }
 
     private void ApplyMovement()
@@ -301,7 +379,7 @@ public class PlayerControllerNew : MonoBehaviour
             }
             if (crouch)
             {
-                rb.velocity = new Vector2(-facingDirection * walkSpeed/2, -wallJumpForce/3);
+                rb.velocity = new Vector2(-facingDirection * walkSpeed / 2, -wallJumpForce / 3);
             }
         }
     }
@@ -320,10 +398,18 @@ public class PlayerControllerNew : MonoBehaviour
         }
     }
 
-    private void CheckSorroundings()
+    private void CheckSurroundings()
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, whatIsGround);
+
         isTouchingWall = Physics2D.Raycast(wallCheck.position, transform.right, wallCheckDistance, whatIsGround);
+        isTouchingLedge = Physics2D.Raycast(ledgeCheck.position, transform.right, wallCheckDistance, whatIsGround);
+
+        if (isTouchingWall && !isTouchingLedge && !ledgeDetected)
+        {
+            ledgeDetected = true;
+            ledgePosBot = wallCheck.position;
+        }
     }
 
     private void DisableColliders()
