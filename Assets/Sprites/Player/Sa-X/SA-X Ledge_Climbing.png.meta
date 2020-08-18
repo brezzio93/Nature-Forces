@@ -41,6 +41,45 @@ TextureImporter:
   - first:
       213: 745235725315140674
     second: SA-X Ledge_Climbing_12
+  - first:
+      213: 8682900156272169796
+    second: SA-X Ledge_Climbing_0
+  - first:
+      213: -1593039298969327059
+    second: SA-X Ledge_Climbing_1
+  - first:
+      213: -809968262296200865
+    second: SA-X Ledge_Climbing_2
+  - first:
+      213: -1701257853210888172
+    second: SA-X Ledge_Climbing_3
+  - first:
+      213: -5246292384722189276
+    second: SA-X Ledge_Climbing_4
+  - first:
+      213: 8697562229029701794
+    second: SA-X Ledge_Climbing_5
+  - first:
+      213: 1876969998327094343
+    second: SA-X Ledge_Climbing_6
+  - first:
+      213: 2068673167472714446
+    second: SA-X Ledge_Climbing_7
+  - first:
+      213: -368453241880591844
+    second: SA-X Ledge_Climbing_8
+  - first:
+      213: -8852680240589719372
+    second: SA-X Ledge_Climbing_9
+  - first:
+      213: 611956683494493606
+    second: SA-X Ledge_Climbing_10
+  - first:
+      213: -6491768286753254870
+    second: SA-X Ledge_Climbing_11
+  - first:
+      213: -5114039417635195209
+    second: SA-X Ledge_Climbing_12
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -142,17 +181,17 @@ TextureImporter:
         serializedVersion: 2
         x: 17
         y: 76
-        width: 18
-        height: 36
+        width: 48
+        height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61d20266d347f3180800000000000000
-      internalID: -9133453712228864746
+      spriteID: 44359ca20bbdf7870800000000000000
+      internalID: 8682900156272169796
       vertices: []
       indices: 
       edges: []
@@ -166,14 +205,14 @@ TextureImporter:
         width: 8
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a807a0a23775bde90800000000000000
-      internalID: -6999905043679121270
+      spriteID: d2a22b7a23364e9e0800000000000000
+      internalID: -1593039298969327059
       vertices: []
       indices: 
       edges: []
@@ -183,18 +222,18 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 146
-        y: 85
-        width: 20
-        height: 32
+        y: 84
+        width: 46
+        height: 77
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 992457725f7d45510800000000000000
-      internalID: 1537090820769137305
+      spriteID: f599e76282a62c4f0800000000000000
+      internalID: -809968262296200865
       vertices: []
       indices: 
       edges: []
@@ -208,14 +247,14 @@ TextureImporter:
         width: 6
         height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e078d28c724f28af0800000000000000
-      internalID: -395485365555853554
+      spriteID: 41875040ffae368e0800000000000000
+      internalID: -1701257853210888172
       vertices: []
       indices: 
       edges: []
@@ -226,17 +265,17 @@ TextureImporter:
         serializedVersion: 2
         x: 283
         y: 92
-        width: 22
-        height: 31
+        width: 34
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8975ea9435ec44570800000000000000
-      internalID: 8450105657967663000
+      spriteID: 4240cc44fdc6137b0800000000000000
+      internalID: -5246292384722189276
       vertices: []
       indices: 
       edges: []
@@ -250,14 +289,14 @@ TextureImporter:
         width: 5
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8269fc290f3cb6070800000000000000
-      internalID: 8100783792778614312
+      spriteID: 2a88b2104c2f3b870800000000000000
+      internalID: 8697562229029701794
       vertices: []
       indices: 
       edges: []
@@ -268,17 +307,17 @@ TextureImporter:
         serializedVersion: 2
         x: 413
         y: 103
-        width: 21
-        height: 24
+        width: 30
+        height: 41
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e356ea27b3cf5090800000000000000
-      internalID: -8043495217994247198
+      spriteID: 74c1a54d4465c0a10800000000000000
+      internalID: 1876969998327094343
       vertices: []
       indices: 
       edges: []
@@ -292,14 +331,14 @@ TextureImporter:
         width: 8
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 340d7a0bef956b3f0800000000000000
-      internalID: -885421326311370685
+      spriteID: ec2e797194765bc10800000000000000
+      internalID: 2068673167472714446
       vertices: []
       indices: 
       edges: []
@@ -308,19 +347,19 @@ TextureImporter:
       name: SA-X Ledge_Climbing_8
       rect:
         serializedVersion: 2
-        x: 542
+        x: 537
         y: 105
-        width: 26
-        height: 25
+        width: 31
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2419dd03510b5d7d0800000000000000
-      internalID: -2894213580455046846
+      spriteID: c12cd598abdf2eaf0800000000000000
+      internalID: -368453241880591844
       vertices: []
       indices: 
       edges: []
@@ -334,14 +373,14 @@ TextureImporter:
         width: 9
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b08853bc2463f4560800000000000000
-      internalID: 7300113181495887883
+      spriteID: 4b8b7858936f42580800000000000000
+      internalID: -8852680240589719372
       vertices: []
       indices: 
       edges: []
@@ -350,19 +389,19 @@ TextureImporter:
       name: SA-X Ledge_Climbing_10
       rect:
         serializedVersion: 2
-        x: 672
+        x: 665
         y: 105
-        width: 27
-        height: 28
+        width: 34
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c15d8df0fbc6d4d80800000000000000
-      internalID: -8264830173294570212
+      spriteID: 6ad8d918c5b1e7800800000000000000
+      internalID: 611956683494493606
       vertices: []
       indices: 
       edges: []
@@ -376,14 +415,14 @@ TextureImporter:
         width: 10
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 643c3e8fc59b11f60800000000000000
-      internalID: 8003381821777888070
+      spriteID: a221de7532b98e5a0800000000000000
+      internalID: -6491768286753254870
       vertices: []
       indices: 
       edges: []
@@ -392,19 +431,19 @@ TextureImporter:
       name: SA-X Ledge_Climbing_12
       rect:
         serializedVersion: 2
-        x: 800
+        x: 797
         y: 105
-        width: 27
-        height: 33
+        width: 30
+        height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24ce65991fb975a00800000000000000
-      internalID: 745235725315140674
+      spriteID: 7b63288be384709b0800000000000000
+      internalID: -5114039417635195209
       vertices: []
       indices: 
       edges: []
